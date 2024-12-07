@@ -55,4 +55,4 @@ if __name__ == "__main__":
     lang = pick_language(languages, picked)
     picked.append(lang)
     save_picked(picked)
-    create_folder(len(picked))
+    create_folder(len(picked), lang, file_exts[lang])
