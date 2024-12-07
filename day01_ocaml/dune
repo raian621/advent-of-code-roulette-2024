@@ -1,0 +1,3 @@
+(executable
+ (name solution)
+ (public_name day01_ocaml))
