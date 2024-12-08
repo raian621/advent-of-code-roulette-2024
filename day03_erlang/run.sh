@@ -1,0 +1,1 @@
+echo "c(solution), solution:main()." | erl
