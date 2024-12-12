@@ -41,7 +41,7 @@ You should try to write everything in these three files, reading input from `inp
 - [ ] Python
 - [ ] Java
 - [x] JavaScript
-- [ ] Julia
+- [x] Julia
 - [ ] Kotlin
 - [x] Lisp
 - [ ] Lua
