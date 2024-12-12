@@ -50,7 +50,7 @@
         "Haskell": "hs",
         "Lisp": "lisp",
         "Clojure": "clj",
-        "Julia": "julia",
+        "Julia": "jl",
         "Zig": "zig",
         "Erlang": "erl",
         "OCaml": "ml"
