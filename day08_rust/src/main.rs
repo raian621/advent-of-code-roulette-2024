@@ -93,7 +93,7 @@ fn insert_positions_in_bounds(
   p2: Point
 ) {
   positions.insert(p1);
-  positions.insert(p2);
+  positions.insert(p1);
 
   let (row1, col1) = p1;
   let (row2, col2) = p2;
@@ -146,7 +146,6 @@ fn solve_part_1(grid: &[Vec<char>]) {
 
   println!("{}", antinode_positions.len());
 }
-
 
 fn solve_part_2(grid: &[Vec<char>]) {
   let rows = grid.len() as isize;
