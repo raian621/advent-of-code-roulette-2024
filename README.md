@@ -36,7 +36,7 @@ You should try to write everything in these three files, reading input from `inp
 - [ ] Elixir
 - [x] Erlang
 - [ ] Go
-- [ ] Groovy
+- [x] Groovy
 - [ ] Haskell
 - [ ] Python
 - [ ] Java
