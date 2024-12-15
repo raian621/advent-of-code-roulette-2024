@@ -30,7 +30,7 @@ You should try to write everything in these three files, reading input from `inp
 - [ ] Bash
 - [ ] C
 - [ ] C++
-- [ ] C#
+- [x] C#
 - [ ] Clojure
 - [ ] Dart
 - [ ] Elixir
