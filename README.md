@@ -38,7 +38,7 @@ You should try to write everything in these three files, reading input from `inp
 - [ ] Go
 - [x] Groovy
 - [ ] Haskell
-- [ ] Python
+- [x] Python
 - [ ] Java
 - [x] JavaScript
 - [x] Julia
@@ -51,3 +51,4 @@ You should try to write everything in these three files, reading input from `inp
 - [ ] PowerShell
 - [ ] Rust
 - [ ] Scala
+- [x] Zig
